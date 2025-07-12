@@ -135,10 +135,10 @@ async function LoadDataBase(naze, m) {
 			grouponly: true,
 			multiprefix: false,
 			privateonly: true,
-			author: 'Nazedev',
+			author: 'Faisal',
 			autobackup: false,
-			botname: 'Hitori Bot',
-			packname: 'Bot WhatsApp',
+			botname: 'Faisal Bot',
+			packname: 'Faisal WhatsApp',
 			template: 'documentMessage',
 			owner: global.owner.map(id => ({ id, lock: true })),
 		};
